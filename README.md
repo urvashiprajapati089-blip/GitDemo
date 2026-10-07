@@ -1,5 +1,5 @@
 # GitDemo
-this is my gitdemo repository
+this is my gitdemo repository.
 
 # teacher
 shradha khapra
